@@ -1,8 +1,8 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "alphred"
+gem 'alphred', github: 'kejadlen/alphred', ref: 'alfred-3'
 
 group :development do
-  gem "minitest"
-  gem "pry"
+  gem 'minitest'
+  gem 'pry'
 end

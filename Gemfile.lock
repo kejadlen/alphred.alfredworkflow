@@ -1,8 +1,14 @@
+GIT
+  remote: git://github.com/kejadlen/alphred.git
+  revision: dc7f5128c1e1bc918c2f291569c9232a2bd82740
+  ref: alfred-3
+  specs:
+    alphred (2.0.0.dev)
+      builder (~> 3.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
-    alphred (1.1.1)
-      builder (~> 3.2)
     builder (3.2.2)
     coderay (1.1.0)
     method_source (0.8.2)
@@ -17,7 +23,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  alphred
+  alphred!
   minitest
   pry
 
