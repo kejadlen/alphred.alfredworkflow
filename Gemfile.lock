@@ -1,9 +1,8 @@
 GIT
   remote: git://github.com/kejadlen/alphred.git
-  revision: dc7f5128c1e1bc918c2f291569c9232a2bd82740
-  ref: alfred-3
+  revision: 4ba989fa20853bc1e3b4c895f07097d927684e6e
   specs:
-    alphred (2.0.0.dev)
+    alphred (2.0.0)
       builder (~> 3.2)
 
 GEM
